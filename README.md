@@ -39,8 +39,8 @@ pacman -S mingw-w64-clang-x86_64-clang \
 ## Build
 
 ```bash
-git clone https://github.com/<your-username>/tft-bot.git
-cd tft-bot
+git clone https://github.com/dkhoasobad/Auto-Roll-TFT
+cd Auto-Roll-TFT
 ./build.sh
 ```
 
